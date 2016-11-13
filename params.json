@@ -1,0 +1,6 @@
+{
+  "name": "Brewscheme Extras",
+  "tagline": "Repository to host/share scheme files developed by users of the brewscheme toolkit for Stata",
+  "body": "# brewscheme Extras\r\nSample site to share scheme files generated with `brewscheme`.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
